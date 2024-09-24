@@ -10,6 +10,7 @@
 7. [Challenges Faced](#challenges-faced)
 8. [Conclusion](#conclusion)
 9. [References](#references)
+10. [Full Write-Up](https://github.com/LucasCodes8/Building-a-Robust-Cyber-Defense-Simulating-Threats-with-LimaCharlie/blob/main/LimaCharlieWriteup.pdf)
 
 ---
 
